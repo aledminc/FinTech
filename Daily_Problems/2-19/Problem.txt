@@ -1,0 +1,9 @@
+A chipmunk stuffs its mouth with acorns.
+
+Every second the chipmunk either puts in an acorn in its mouth,
+with a 2/3 chance, otherwise an acorn falls out. 
+
+This continues until either the chipmunk's mouth is full (36 acorns),
+or until its completely empty. 
+
+What are the chances the chipmunk leaves hungry?
