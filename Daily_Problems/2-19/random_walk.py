@@ -18,4 +18,6 @@ for elem in result:
 empty_num = count/sims
 print("Prob of hungry is " + str(empty_num) + " or " + str(count) + "/" + str(sims))
 
+# converges on 1/64
+
  

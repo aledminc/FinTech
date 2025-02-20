@@ -1,0 +1,6 @@
+B blue jays and C cardinals are sitting together in a tree
+The birds all take turns flying away (meaning the bird that 
+flew away is equally likely to be any of the remaining birds)
+
+What is the chance that at some point the same # of blue jays
+as cardinals have flown away?
