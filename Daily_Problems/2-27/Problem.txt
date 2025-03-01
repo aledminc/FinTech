@@ -1,0 +1,7 @@
+A hawk is flying around a 3D space. It is not bound by gravity
+and can burrow deep into the ground.
+
+Every moment, it takes a step in the horizontal, vertical, forward,
+or backward direction. 
+
+What is the probability the hawk eventually returns to the tree where it started?

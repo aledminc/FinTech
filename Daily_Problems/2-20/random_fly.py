@@ -3,12 +3,12 @@ import random
 sims = 100000
 equal_occur = 0
 
+bluejays = random.randint(1, 100)
+cardinals = random.randint(1, 100)    
+
+bird_list = ["B"] * bluejays + ["C"] * cardinals
+
 for i in range(sims):
-    bluejays = random.randint(1, 200)
-    cardinals = random.randint(1, 200)
-
-    bird_list = ["B"] * bluejays + ["C"] * cardinals
-
     B_count = 0
     C_count = 0
 
@@ -25,3 +25,5 @@ for i in range(sims):
             break
 
 print(f"Probability that at some point, same number has flown away: {equal_occur/sims}, there were {equal_occur} equal occurences over {sims} simulations")
+print(f"Mathematical Proposition: {min(cardinals, bluejays)/(bluejays + cardinals)}")
+# converges on 61% I think 
