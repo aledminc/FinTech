@@ -1,0 +1,7 @@
+Two cyclists are randomly biking around the unit circle. They each stop at uniformly random
+spots around the unit circle. 
+
+Form a triangle from the two cyclists and the unit circle's center. How likely is the triangle
+to be acute? 
+
+What about for the unit sphere?
